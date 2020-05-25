@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'infinityregular';
+	src: url(../../assets/fonts/infinity-webfont.woff2?h=9a36f4afc29e2138b375af7f70f57b7a) format('woff2'),
+	url(../../assets/fonts/infinity-webfont.woff?h=9a36f4afc29e2138b375af7f70f57b7a) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}

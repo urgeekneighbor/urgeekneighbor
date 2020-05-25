@@ -1,0 +1,31 @@
+.bimg-splash {
+  background-image: url('../../assets/img/splash-gif.gif?h=03079f31821f95fe9dc4d61660d9e0d9');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+button:hover {
+  background-color: white!important;
+  color: black!important;
+}
+
+.btn.btn-primary.btn-lg {
+  background-color: black;
+  margin: 7px 10px 12px 15px;
+  border-radius: 5px;
+  color: white;
+  font-family: 'infinityregular';
+  border-color: white;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+.btn.btn-primary.btn-lg:active {
+  outline: 0!important;
+  border: none!important;
+  -moz-outline-style: none!important;
+}
+
